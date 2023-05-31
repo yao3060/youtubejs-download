@@ -1,0 +1,10 @@
+{
+  "scripts": {},
+  "dependencies": {
+    "youtubei.js": "^5.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4",
+    "@types/node": "^20.2.5"
+  }
+}
